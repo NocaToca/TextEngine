@@ -1,0 +1,10 @@
+{
+
+    "name": "Main Room",
+    "description": "Test description! :D",
+    "room":{
+        "file_name":"sub_room",
+        "entrance":"2"
+    }
+
+}

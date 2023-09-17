@@ -1,0 +1,53 @@
+{
+    "global_position": {
+        "x": 471.0,
+        "y": 309.0
+    },
+    "links": [
+        {
+            "base_position": {
+                "x": 471.0,
+                "y": 269.0
+            },
+            "connected_node": "nullptr",
+            "link_name": "Link",
+            "parent_node": "Node1",
+            "placed_direction": 2
+        },
+        {
+            "base_position": {
+                "x": 511.0,
+                "y": 309.0
+            },
+            "connected_node": "nullptr",
+            "link_name": "Link",
+            "parent_node": "Node1",
+            "placed_direction": 3
+        },
+        {
+            "base_position": {
+                "x": 431.0,
+                "y": 309.0
+            },
+            "connected_node": "nullptr",
+            "link_name": "Link",
+            "parent_node": "Node1",
+            "placed_direction": 1
+        },
+        {
+            "base_position": {
+                "x": 471.0,
+                "y": 349.0
+            },
+            "connected_node": "nullptr",
+            "link_name": "Link",
+            "parent_node": "Node1",
+            "placed_direction": 0
+        }
+    ],
+    "name": "Node1",
+    "size": {
+        "x": 100.0,
+        "y": 100.0
+    }
+}

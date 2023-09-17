@@ -1,0 +1,23 @@
+{
+    "global_position": {
+        "x": 247.0,
+        "y": 305.0
+    },
+    "links": [
+        {
+            "base_position": {
+                "x": 287.0,
+                "y": 305.0
+            },
+            "connected_node": "nullptr",
+            "link_name": "Link",
+            "parent_node": "Node2",
+            "placed_direction": 3
+        }
+    ],
+    "name": "Node2",
+    "size": {
+        "x": 100.0,
+        "y": 100.0
+    }
+}

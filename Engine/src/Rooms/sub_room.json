@@ -1,0 +1,10 @@
+{
+
+    "name": "Main Room",
+    "description": "We moved rooms?? :0",
+    "room":{
+        "file_name":"main_room",
+        "entrance":"8"
+    }
+
+}
